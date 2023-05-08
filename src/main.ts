@@ -7,3 +7,11 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   
   </div>
 `
+
+
+
+class Slot {
+  public
+
+
+}
